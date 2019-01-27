@@ -1,0 +1,23 @@
+{
+  "name": "zx_txt2json",
+  "version": "1.0.0",
+  "description": "函数，将txt格式的JSON  文件转换成JSON格式。主要用于http,https返回的JSON格式的数据转换。",
+  "main": "txt2json.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com:zx7/zx_txt2json.git"
+  },
+  "keywords": [
+    "zx",
+    "zx_txt2json",
+    "txt2json",
+    "txt",
+    "json",
+    "2json"
+  ],
+  "author": "zx",
+  "license": "MIT"
+}
